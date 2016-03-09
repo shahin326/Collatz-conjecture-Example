@@ -4,5 +4,5 @@ The Collatz conjecture is a conjecture in mathematics named after Lothar Collatz
 
 # How to use
 
-Run the application and enter a naturl number to start calculation for.
-You will get results in a HTML file.
+Run the application and enter a natural number to start calculation for.
+You will get the Hailstone sequence and other results in a HTML file.
